@@ -29,4 +29,4 @@ A modern and responsive food subscription website built with **HTML, CSS, and Ja
 
 ---
 
-Made with ❤️ by **Elyar**
+Made with ❤️
