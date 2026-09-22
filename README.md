@@ -48,4 +48,4 @@ This project was created as a **frontend development practice project** to impro
 
 ---
 
-Made with ❤️ by **Elyar**
+Made with ❤️
