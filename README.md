@@ -1,7 +1,5 @@
 # 🍽️ OmniFood — AI-Powered Healthy Meal Delivery
 
-![OmniFood Preview](img/omnifood-preview.png)
-
 **OmniFood** is a modern, responsive landing page for an AI-powered healthy meal delivery service.
 
 The website is designed to provide users with personalized meals based on their dietary preferences and lifestyle, while presenting the service through a clean, modern, and engaging user interface.
